@@ -84,7 +84,6 @@ public class MainActivity
     public void register(View view) {
         Intent intent = new Intent(this, RegistrationActivity.class);
         intent.putExtra("SECRET_KEY", SECRET_KEY);
-        // TODO: regisztracio megvalositasa
 
         startActivity(intent);
     }

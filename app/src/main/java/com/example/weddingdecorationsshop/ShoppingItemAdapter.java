@@ -28,7 +28,7 @@ public class ShoppingItemAdapter extends RecyclerView.Adapter<ShoppingItemAdapte
     private Context mContext;
     private int lastPosition = -1;
 
-    ShoppingItemAdapter(Context context, ArrayList<ShoppingItem> itemsData) { // TODO ha ne működik valami akkor itemsData=items
+    ShoppingItemAdapter(Context context, ArrayList<ShoppingItem> itemsData) {
         this.mShoppingItemData = itemsData;
         this.mShoppingItemDataAll = itemsData;
         this.mContext = context;
