@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Transparent Background -->
+    <item android:drawable="@android:color/transparent"/>
+
+    <!-- Circle Shape -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FFFFD2"/>
+            <!-- Adjust the color code to your desired shade of pale orange -->
+        </shape>
+    </item>
+
+</layer-list>

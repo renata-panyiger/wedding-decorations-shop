@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Wedding decorations shop</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="email_address">Email address</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_type">Phone type:</string>
+    <string name="address">Address</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="guest_login">Guest login</string>
+    <string name="product_description">Product description</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="loading">Loading</string>
+    <string name="delete_from_cart">Delete from cart</string>
+    <string-array name="phone_modes">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Private</item>
+        <item>Other</item>
+    </string-array>
+
+
+
+    <string-array name="shopping_item_names">
+        <item>Cake figure</item>
+        <item>Gift holder box</item>
+        <item>Guest book</item>
+        <item>Little gift box</item>
+        <item>Name holder</item>
+        <item>Ring holder</item>
+        <item>Table number holder</item>
+        <item>Wedding glasses</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>No wedding is complete without a cake. So, dont forget to decorate the top of the cake with this fantastic decoration. Make an impression on your guests.</item>
+        <item>This wooden box intended for envelopes or well wishes not only complements the decoration but also helps preserve the guests small attentions.</item>
+        <item>This excellent guestbook, in heart-shaped wooden finish, makes the wedding day even better. The book contains 70 heart-shaped pieces where guests can sign themselves.</item>
+        <item>Gift box for guests. Suitable for packaging desserts, cakes, or treats. It can bring joy to your guests.</item>
+        <item>If youre looking for an accessory that adds a rustic atmosphere to your table, the wooden name tag holder is an ideal choice. Its simple design and natural appearance create a pleasant and cozy atmosphere. Besides marking guests names, you can also use the name tag holders to mark tables. Each table can have its unique natural symbol or emblem, making it easier for guests to find their place.</item>
+        <item>This beautifully carved wooden ring holder is a gorgeous wedding decoration and a unique wedding accessory.</item>
+        <item>Decorate your tables with these simple acrylic table numbers. The delicate design is perfect for any theme.</item>
+        <item>Bride and groom-themed decorative wedding glasses. You dont need to search for decorated glasses; the average ones will be suitable, adorned with these ornaments.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/cake_figure</item>
+        <item>@drawable/gift_holder_box</item>
+        <item>@drawable/guest_book</item>
+        <item>@drawable/little_gift_box</item>
+        <item>@drawable/name_holder</item>
+        <item>@drawable/ring_holder</item>
+        <item>@drawable/table_number_holder</item>
+        <item>@drawable/wedding_glasses</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>199 gold</item>
+        <item>299 gold</item>
+        <item>149 gold</item>
+        <item>399 gold</item>
+        <item>99 gold</item>
+        <item>300 gold</item>
+        <item>245 gold</item>
+        <item>199 gold</item>
+    </array>
+</resources>
